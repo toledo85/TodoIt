@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networkutils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/toledo85/NetworkUtils.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "416d7917a35079358c92e0b3e149bda080415ae8"
+      }
+    }
+  ],
+  "version" : 2
+}
